@@ -35,12 +35,3 @@ ArviZ (Posterior diagnostics and HDI calculation)
 Pandas & NumPy (Data manipulation and Monte Carlo simulation)
 
 Matplotlib (Probabilistic visualization)
-
-How to Run This Project
-Clone this repository to your local machine.
-
-Install the required dependencies using the included requirements.txt file:
-
-Bash
-pip install -r requirements.txt
-Open the Jupyter Notebook to run the MCMC sampler and generate the forecast plots.
