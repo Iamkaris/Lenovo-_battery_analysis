@@ -44,5 +44,3 @@ Install the required dependencies using the included requirements.txt file:
 Bash
 pip install -r requirements.txt
 Open the Jupyter Notebook to run the MCMC sampler and generate the forecast plots.
-
-This perfectly captures the "why" and the "how" of your analysis. Do you want to add a section in the README mentioning that the data will be updated periodically using Bayesian updating, or do you prefer to keep it exactly as it is here?
